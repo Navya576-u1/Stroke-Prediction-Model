@@ -30,6 +30,6 @@ This project predicts the likelihood of a person having a stroke based on health
 
 ## 📈 Results
 
-Best Model: Random Forest Classifier
-Accuracy: ~90%
-Key Insight: Age and BMI are strong predictors of stroke risk.
+**Best Model:** Random Forest Classifier
+**Accuracy:** ~90%
+**Key Insight:** Age and BMI are strong predictors of stroke risk.
