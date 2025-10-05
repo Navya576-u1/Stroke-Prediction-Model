@@ -25,10 +25,10 @@ This project predicts the likelihood of a person having a stroke based on health
 1. Clone the repository  
    ```bash
    git clone https://github.com/Navya576-u1/Stroke-Prediction-Model.git
-2.Open the Jupyter Notebook file HEARTSTROKE.ipynb
-3.Run all cells to reproduce the model and results
+2. Open the Jupyter Notebook file HEARTSTROKE.ipynb
+3. Run all cells to reproduce the model and results
 
-📈 Results
+## 📈 Results
 
 Best Model: Random Forest Classifier
 Accuracy: ~90%
