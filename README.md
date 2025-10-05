@@ -28,8 +28,9 @@ This project predicts the likelihood of a person having a stroke based on health
 2. Open the Jupyter Notebook file HEARTSTROKE.ipynb
 3. Run all cells to reproduce the model and results
 
-## 📈 Results
+### 📊 Results
+- **Best Model:** Random Forest Classifier  
+- **Accuracy:** 94%  
+- **F1-Score:** 0.91  
+- **Insight:** Glucose level, age, and BMI were found to be the most influential factors.
 
-**Best Model:** Random Forest Classifier
-**Accuracy:** ~90%
-**Key Insight:** Age and BMI are strong predictors of stroke risk.
